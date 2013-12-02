@@ -2,6 +2,8 @@ JavaScript跟踪
 =====
 文档 > JavaScript跟踪
 
+原文：[http://piwik.org/docs/javascript-tracking/](http://piwik.org/docs/javascript-tracking/)
+
 * 跟踪代码在哪里找？
 * JavaScript跟踪的功能
 	* 自定义Page Name
